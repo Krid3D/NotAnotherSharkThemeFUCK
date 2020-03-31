@@ -1,0 +1,50 @@
+/**
+ * @name NotAnotherSharkThemeFUCK
+ * @author puckzxz#2080 & Quake#1470
+ * @version 1.0.0
+ * @description Edited with https://gibbu.me/editor/notanotheranimetheme | Base theme: NotAnotherAnimeTheme by puckzxz#2080 & Quake#1470
+ * @source https://github.com/Gibbu/BetterDiscord-Themes/tree/master/MinimalCord
+ * @website https://www.gibbu.me/themegen/notanotheranimetheme
+ * @invite FdZhbjY
+*/
+
+@import url('https://cdn.discordthemes.net/file/notanotheranimetheme/scsl.css');
+
+@import url('https://gibbubdstuff.github.io/RadialStatus/base.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+
+:root {
+
+--background-image: url('https://imgur.com/7gtAuK3.jpg');
+--friends-icon: url('https://imgur.com/oo0TmlL.jpg');
+--friends-icon-position: 'center top';
+--friends-icon-zoom: 138%;
+--main-color: rgb(0,222,255);
+--main-transparency: rgba(44,13,73,0.55);
+--unread-server-animation: 'jump';
+--hover-list-bg-color: rgba(135,255,0,0.48);
+--border-lines-color: rgba(46,209,0,0.43);
+--scroll-bar-color: rgba(0,255,200,0.61);
+--font-size: 13px;
+--selected-text-voice-color: #b0b0ff;
+--channel-hover-text-color: rgba(0,232,255,0.73);
+--unread-text-color: #ff5656;
+--user-popup-background: rgba(64,164,184,0.57);
+
+--rs-small-spacing: 2px;
+--rs-large-spacing: 0px;
+--rs-width: 5px;
+--rs-avatar-shape: 27%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--columns: 5;
+--guildsize: 40;
+--guildgap: 0;
+--aligndms: 1;
+}
